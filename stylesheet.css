@@ -1,6 +1,6 @@
 html{box-sizing:border-box;overflow-x:hidden}*,*:before,*:after{box-sizing:inherit}
 
-html,body,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;font-size:15px;line-height:1.5}
+html,body,h1,h2,h3,h4,h5,h6{font-family:'Ubuntu',sans-serif;font-size:15px;line-height:1.5}
 
 h1{font-size:36px}h2{font-size:30px; font-family:cursive}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px; margin-bottom:0em}h6{font-size:16px}
 hr{border:0;border-top:1px solid #eee;margin:20px 0}
@@ -36,3 +36,7 @@ ul{list-style: none;line-height: 2.5em; padding-left:0px}
 .bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
 .button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
 .float-right{float:right!important}
+
+.new-class{
+    color:darkblue
+}
